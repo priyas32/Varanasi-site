@@ -1,0 +1,180 @@
+body{
+    align-items: center;
+    font-family: 'Spinnaker', sans-serif;
+    background: linear-gradient(rgb(180, 226, 134), rgb(230, 230, 120));
+    background-image: url("vns\ skyline2.jpg");
+    background-repeat: no-repeat;
+    background-size: 1450px 330px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: #d2ad77;
+}
+
+h1{
+    text-align: center;
+    margin-top: 32px;
+    font-weight: bolder;
+    background-color: bisque;
+    text-shadow: 1px 0px 2px white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 3px;
+    padding: 4px 2.5px 4px 2.5px ;
+}
+h3{
+    text-align: center;
+    margin: 2px auto 0px auto ;
+    width: 350px;
+    font-size: medium;
+    font-weight: bold;
+    background-color: antiquewhite;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2px 2.5px 2px 2.5px ;
+    border-radius: 3px;
+}
+.second-part{
+    margin-top: 210px;
+    text-align: center;
+    font-weight: normal;
+    font-size: small;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   
+}
+h2{
+   text-decoration: underline;
+   margin-top: 60px;
+}
+.ghat{
+    width: 120px;
+    border-radius: 50%;
+    border: 2px solid olive;
+}
+.kashi{
+    width: 120px;
+    border-radius: 50%;
+    border: 2px solid olive;
+}
+.image{
+    width: 150px;
+    border-radius: 50%;
+    border: 2px solid olive;
+    margin: 5px;
+}
+.place{
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 2vh;
+    padding-top: 4vh;
+    padding-bottom: 4vh;
+    border-radius: 1rem;
+    width: 28%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #D18F2E;
+}
+.desc {
+    margin-top: 10px;
+    margin-bottom: 5px;
+    font-size: 16px;
+
+}
+.places{
+    margin-top: 40px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content:center; 
+    align-content: center;
+    gap: 0px;
+}
+h4{
+    margin-top: 10px;
+    text-align: center;
+    justify-content: space-around;
+    margin: 2px auto 2px auto;
+}
+p{
+    margin-top: 5px;
+    text-align: center;
+    justify-content: space-around;
+    margin: 2px auto 2px auto;
+}
+.third-part{
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: space-around;
+}
+.pic{
+    margin-top: 100px;
+    width: 230px;
+    border: 1px solid wheat;
+}
+.card-h{
+  text-align: center;
+  font-size: larger;
+  text-decoration: none;
+  font-weight: bolder;
+}
+.card-content{
+    text-align: center;
+    font-size: medium;
+    font-weight: lighter;
+    width: 200px;
+    margin: 2px auto 2px auto;
+}
+.footer{
+    text-align: center;
+    font-size: large;
+    text-decoration: none;
+    font-weight: bolder;
+    margin: 5px auto 2px auto;
+}
+.Head {
+    padding: 5px;
+    margin: auto;
+    margin-bottom: 5px;
+}
+.image:hover{
+    width: 200px;
+    z-index: 5;
+}
+a:visited {
+    color: black;
+    text-decoration: none;
+}
+.places2{
+    margin-top: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around; 
+}
+.place2{
+    margin-top: 47px;
+    padding: 2vh;
+    padding-top: 4vh;
+    padding-bottom: 4vh;
+    border-radius: 1rem;
+    width: 28%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #D18F2E;
+}
+.image2{
+    width: 150px;
+    border-radius: 50%;
+    border: 2px solid olive;
+    margin: 5px;
+}
+.image2:hover{
+    width: 200px;
+    z-index: 5;
+}
